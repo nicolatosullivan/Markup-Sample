@@ -1,0 +1,119 @@
+nicola12117633
+{
+	display:block;
+	background-color: #FFFAFA;
+
+}
+
+image1
+{
+	display:block;
+	margin-left: 20pt;
+	margin-right: 20pt;
+	padding-top: 10pt;
+	padding-bottom: 10pt;
+}
+heading1
+{
+	display: block;
+	text-align: center;
+	font-size: 26pt;
+	font-weight: bold;
+	font-family: Times;
+	color: #4B0082;
+	padding: 5pt;
+	margin: 10pt;
+}
+heading2
+{
+	display:block;
+	text-align: center;
+	font-size: 18pt;
+	font-weight: bold;
+	font-family: verdana;
+	padding-top: 4pt;
+	color: #4B0082;
+}
+
+heading3
+{
+	display:block;
+	text-align: center;
+	font-size: 16pt;
+	font-weight: bold;
+	font-family: verdana;
+	padding-top: 6pt;
+	color: #4B0082;
+}
+
+heading4
+{
+	display:block;
+	text-align:center;
+	font-size: 12pt;
+	font-weight: bold;
+	font-family: verdana;
+	padding-top: 4pt;
+	color:#4B0082;
+}
+topic
+{
+	display: block;
+	padding-top: 10pt; 
+	text-align: center;
+	font-size: 14pt;
+	font-family: Times;
+	font-weight: bold;
+	color: 	#4B0082;
+	margin-right: : 25pt;
+	margin-right: 25pt;
+}
+
+paragraph
+{
+	display: block;
+	padding-top: 10pt;
+	padding-bottom: 3pt;
+	text-align: left;
+	font-size: 12pt;
+	font-family: Verdana;
+	font-weight: normal;
+	text-indent: initial;
+	text-indent: 12mm;
+	padding: 10pt;
+	margin-right: 25pt;
+	margin-left: 25pt;
+}
+bullet
+{
+	display: list-item;
+	list-style-type: disc;
+	list-style-position: inside;
+	padding-top: 5pt;
+} 
+
+reference 
+{
+	display: block;
+	padding-top: 10pt;
+	text-align: left;
+	font-size: 12pt;
+	font-family: Verdana;
+	font-weight: normal;	
+	padding: 10pt;
+	margin-right: 25pt;
+	margin-left: 25pt;
+}
+date
+{
+	display:block;
+	padding-top: 30pt;
+	text-align:center;
+	font-size: 10pt;
+	font-family: Verdana;
+	font-weight: bold;
+	color:#4B0082;
+	margin-right: 25pt;
+	margin-left: 25pt;
+	margin-bottom: 25pt;
+}
